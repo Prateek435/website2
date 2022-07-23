@@ -9,6 +9,13 @@ body{
     position: relative;
     padding-top: 100px;
 }
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
 h1{
     font-family:'Sacramento', cursive;
 }
@@ -27,4 +34,13 @@ h1 {
 }
 h3 {
     color: rgb(0, 163, 150);
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.my-img{
+    width: 25%;
+    float: right;
 }
